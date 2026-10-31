@@ -1,32 +1,18 @@
 
 <div align="center">
 
-# 🔴 JACOBNULL
+# JACOBNULL_
 
-### AI-Assisted Builder · Robotics · Local AI
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=700&color=FF1744&center=true&vCenter=true&width=420&lines=root%40jacobnull%3A~%23+whoami;AI-ASSISTED+BUILDER;ROBOTICS+%2F+LOCAL+AI;ACCESS+GRANTED_" alt="Terminal typing animation" />
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF365C&center=true&vCenter=true&width=480&lines=Ideas+into+working+projects;Learning+by+building;Experimenting+with+AI+and+robotics)
-
----
-
-### `> whoami`
-
-I turn ideas into working projects with AI-assisted development.
-
-Learning by building, experimenting and solving problems.
-
-### `> exploring`
-
-**Robotics** · **Local AI** · **Game Development** · **Web Projects**
-
-### `> featured_projects`
-
-**ankiVectorTR** — Turkish voice experiments for Anki Vector.
-
-**dogum-gunu** — Interactive birthday webpage.
+`[ AI / ROBOTICS / EXPERIMENTS ]`
 
 ---
 
-**KEEP BUILDING_**
+**`root@jacobnull:~# ./projects`**
+
+[ankiVectorTR](https://github.com/jacobnull/ankiVectorTR) · [dogum-gunu](https://github.com/jacobnull/dogum-gunu)
+
+`> KEEP BUILDING_`
 
 </div>
