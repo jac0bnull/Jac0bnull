@@ -1,44 +1,32 @@
+
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="JACOBNULL — AI-assisted builder" />
+# 🔴 JACOBNULL
 
-### ⚡ Ideas into working projects.
+### AI-Assisted Builder · Robotics · Local AI
 
-**AI-Assisted Builder** · Robotics · Local AI · Creative Projects
-
-*Curious mind. Real experiments. Always learning.*
-
-</div>
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF365C&center=true&vCenter=true&width=480&lines=Ideas+into+working+projects;Learning+by+building;Experimenting+with+AI+and+robotics)
 
 ---
 
 ### `> whoami`
 
-I explore ideas and turn them into working projects with the help of AI tools. My interests include **robotics, local language models, game development, and web experiences**.
+I turn ideas into working projects with AI-assisted development.
 
-I don't pretend to know everything. I experiment, troubleshoot, document what works, and learn along the way.
+Learning by building, experimenting and solving problems.
 
-### `> current_projects`
+### `> exploring`
 
-| Project | What it does | Status |
-|:--|:--|:--|
-| [ankiVectorTR](https://github.com/Jacobnull/ankiVectorTR) | Turkish voice experiments for Anki Vector using Wire-Pod, Vosk, Ollama and Edge-TTS | Exploring |
-| [dogum-gunu](https://github.com/Jacobnull/dogum-gunu) | An interactive birthday webpage | Published |
+**Robotics** · **Local AI** · **Game Development** · **Web Projects**
 
-> More experiments are on the way. Projects are added here when they're ready to share.
+### `> featured_projects`
 
-### `> tools_and_interests`
+**ankiVectorTR** — Turkish voice experiments for Anki Vector.
 
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=ff4747)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=ff4747)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=ff4747)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=ff4747)
-![Unity](https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=ff4747)
+**dogum-gunu** — Interactive birthday webpage.
 
-<div align="center">
+---
 
-<img src="./assets/footer.svg" width="100%" alt="Keep building" />
-
-<sub>Built with curiosity, experiments, and AI assistance.</sub>
+**KEEP BUILDING_**
 
 </div>
